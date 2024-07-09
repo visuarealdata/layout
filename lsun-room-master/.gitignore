@@ -12,6 +12,3 @@ logs*/
 *.log
 *.avi
 
-data/
-ckpts/
-project_page/
