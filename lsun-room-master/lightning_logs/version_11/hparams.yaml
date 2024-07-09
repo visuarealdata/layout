@@ -1,0 +1,5 @@
+backbone: resnet101
+edge_factor: 0.2
+l1_factor: 0.0
+l2_factor: 0.2
+lr: 0.0001
